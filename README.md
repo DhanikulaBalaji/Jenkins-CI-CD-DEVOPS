@@ -1,4 +1,4 @@
-Jenkins CI/CD DevOps Projec
+Jenkins CI/CD DevOps 
 
 This repository demonstrates a simple CI/CD pipeline using Jenkins, GitHub, Ansible, and AWS EC2.
 

@@ -3,13 +3,13 @@
   become: true
 
   tasks:
-    - name: Ensure nginx is installed
+    - name: Install nginx
       apt:
         name: nginx
         state: present
         update_cache: yes
 
-    - name: Start nginx service
+    - name: Start nginx
       service:
         name: nginx
         state: started

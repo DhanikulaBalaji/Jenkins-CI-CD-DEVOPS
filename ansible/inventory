@@ -1,2 +1,2 @@
 [app_servers]
-3.131.159.161 ansible_user=ubuntu
+localhost ansible_connection=local
